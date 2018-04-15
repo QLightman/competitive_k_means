@@ -6,6 +6,8 @@ each cluster is relocated, we need to select the two centers where their distanc
 is the shortest. Then kick the center where its group is smaller than the other
 point away to some ratio. 
 
+## Dataset
+![three-cluster dataset](https://github.com/QLightman/competitive_k_means/blob/master/data.png)
 ## Result
 ![three-cluster dataset result](https://github.com/QLightman/competitive_k_means/blob/master/iterations/6interations.jpg)
 
